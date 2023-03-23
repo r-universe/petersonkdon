@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mbir"]
+	path = mbir
+	url = https://github.com/cran/mbir
+	shallow = true
+	registered = true
+[submodule "mlf"]
+	path = mlf
+	url = https://github.com/cran/mlf
+	shallow = true
+	registered = true
